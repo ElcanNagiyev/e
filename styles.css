@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Montserrat:wght@300&family=Poppins&family=Quicksand:wght@300&family=Roboto:ital,wght@0,400;1,300&display=swap');
+
+h1{
+    width: 365px;
+    height: 93px;
+    left: 124px;
+    top: 91px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+.paragrafs{
+width: 662px;
+height: 374px;
+left: 124px;
+top: 220px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+}
+.sekil{
+width: 314px;
+height: 315px;
+left: 976px;
+top: 226px;
+}
+.bigdiv{
+    display:flex;
+
+}
+@media(max-width: 700px) {
+    .bigdiv{
+        display: block;
+    }
+}
